@@ -44,8 +44,8 @@ Streamlit Application (Frontend): Interfaccia utente che carica il modello ML, v
 Il progetto è suddiviso in diversi repository, ciascuno per un componente specifico. Di seguito l'elenco dei repository con i rispettivi link:
 | Componente | Ruolo | Repository Link |
 | :--- | :--- | :--- |
-| **Edge Device** | Rilevazione locale (simulata o reale) dei dati. | **[https://github.com/MaraMonti/wot-project-2025-rubertomontinari-edge-device]** |
-| **Gateway / ML Service** | Contiene il Modello ML e l'App Streamlit (questo repository). | **[https://github.com/MaraMonti/wot-project-2025-RubertoMontinari-gateway-ml]** |
+| **Edge Device** | Rilevazione locale (simulata o reale) dei dati. | **[https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-part2-MaraMonti.git]** |
+| **Gateway / ML Service** | Contiene il Modello ML e l'App Streamlit (questo repository). | **[https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-part1-MaraMonti.git]** |
 | **Front-end / App** | (Se separato) Interfaccia utente finale. | **[LINK REPO FRONT-END PLACEHOLDER]** |
 
 
@@ -85,7 +85,7 @@ Per avviare l'applicazione Streamlit in locale (il frontend del progetto):
 
 1.  **Clona il repository:**
     ```bash
-    git clone [https://github.com/MaraMonti/wot-project-2025-rubertomontinari-gateway-ml]
+    git clone [https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-part1-MaraMonti.git]
     ```
 2.  **Installa le dipendenze:** 
     ```bash
