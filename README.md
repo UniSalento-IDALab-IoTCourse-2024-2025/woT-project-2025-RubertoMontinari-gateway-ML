@@ -91,8 +91,11 @@ Per avviare l'applicazione Streamlit in locale (il frontend del progetto):
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Avvia l'App:**
+3.  **Scarica i datasets e correggi i path nel modulo data_preprocessing.py:** 
+    Collegati alla cartella condivisa su Google Drive e scarica i datasets in locale;
+    Correggi i path
+4.  **Avvia l'App:**
     ```bash
     streamlit run main.py
     ```
-L'applicazione sarà accessibile nel browser all'indirizzo `http://localhost:8501`.
+Per i dati completi, il progetto e i dataset utilizzati, si rimanda al materiale all'interno della cartella condivisa su Google Drive.
