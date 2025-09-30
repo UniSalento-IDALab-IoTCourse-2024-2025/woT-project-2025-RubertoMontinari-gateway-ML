@@ -46,7 +46,7 @@ Il progetto è suddiviso in diversi repository, ciascuno per un componente speci
 | :--- | :--- | :--- |
 | **Edge Device** | Rilevazione locale (simulata o reale) dei dati. | **[https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-part2-MaraMonti.git]** |
 | **Gateway / ML Service** | Contiene il Modello ML e l'App Streamlit (questo repository). | **[https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-part1-MaraMonti.git]** |
-| **Front-end / App** | (Se separato) Interfaccia utente finale. | **[LINK REPO FRONT-END PLACEHOLDER]** |
+| **Presentazione** | Presentazione Power Point del progetto | **[(https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/woT-project-2025-RubertoMontinari-presentation.git)]** |
 
 
 
